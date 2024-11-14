@@ -9,7 +9,7 @@ const educationData = [
     // date: '2018 - 2022'
   },
   {
-    degree: 'Bachelor of Science in Computer Science & Engineering',
+    degree: 'Bachelor of Computer Science & Engineering',
     institution: 'University of South Asia',
     date: '2018 - 2022'
   },
