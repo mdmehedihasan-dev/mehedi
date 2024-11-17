@@ -6,16 +6,16 @@ export default async function RecentProjects() {
   return (
     <section className='pb-24'>
       <div>
-        <h2 className='title mb-12'>Running projects</h2>
+        <h2 className='title mb-12'>Recent projects</h2>
 
         <div className='block lg:flex gap-x-5 ' >
 
         <VideoComponent/>
         <div className='lg:w-1/2 w-full'>
-          <h3 className='font-bold text-xl mt-5 sm:mt-0'>Social Media: A Facebook-Inspired Social Platform (In Progress)
+          <h3 className='font-bold text-xl mt-5 sm:mt-0'>Share Your Thought (SYT): A Facebook-Inspired Social Platform (In Progress)
           </h3>
           <p className='text-muted-foreground py-10 '>
-          Currently developing, Social Connect is a social media platform designed to foster community and connection through familiar yet dynamic features. This project, inspired by Facebook, is progressing towards enabling users to share posts, comment, like, and build connections in a seamless environment. While many core functionalities are underway, I am actively working on refining and expanding features to enhance interactivity and user experience. Stay tuned as I continue to bring this vision to life, aiming to create a versatile and engaging platform for users to connect in new ways!
+          SYT is a social media platform. The main functions of the platform include: uploading a profile photo, uploading a cover photo, creating a post, sending a friend request, adding friends, canceling requests, live search function, and more. It is built with React JS, Tailwind CSS, Redux Toolkit, Express JS, Node JS, and MongoDB.
           </p>
         </div>
         </div>
